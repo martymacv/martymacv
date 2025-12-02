@@ -24,7 +24,7 @@
 - OpenAPI документация
 - Docker готовность
 
-**🌐 Демо:** [blog-api-docs.my](http://37.77.105.19/api/docs/)
+**🌐 Демо:** [portfolio-blog-api.ru](https://portfolio-blog-api.ru/api/docs/)
 
 #### Frontend: [React Blog UI](https://github.com/martymacv/react_blog)
 ![Stars](https://img.shields.io/github/stars/martymacv/drf_blog_api)
